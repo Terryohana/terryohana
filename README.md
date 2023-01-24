@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Terryohana/terryohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Terry Ohannah .W 
+ ✔️ Hi, I'm Terry! I'm an experienced software engineer with creative and innovative skills across full stack development, UI/UX design, and DevOps. 🤓 I'm experienced with React, Javascript, AWS, MongoDB, Express, Python, and Selenium. 💻 Always ready to work with fellow developers, community leaders, speakers, and event participants to create enjoyable learning experiences and maximize the use of everyone's time. ✌️ 
+📍 Nairobi County, Kenya 
+🔗 linkedin.com/in/terry-ohannah 
 
-Here are some ideas to get you started:
+💻 Software Developer with 6+ years of experience in creating software for web and mobile applications, Automation and Data synthesis. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience 
+- Design and implement data collection processes 
+- Design and implement data cleansing processes 
+- Design and implement data validation processes 
+- Create and maintain documentation for data collection and cleansing processes 
+- Work with platform and data pipeline teams to ensure data collected is suitable for their needs 
+- Design, code and debug software programs 
+- Develop and manage software programs 
+- Test and troubleshoot programs 
