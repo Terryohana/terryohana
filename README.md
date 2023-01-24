@@ -7,11 +7,11 @@
 💻 Software Developer with 6+ years of experience in creating software for web and mobile applications, Automation and Data synthesis. 
 
 ### Experience 
-- Design and implement data collection processes 
-- Design and implement data cleansing processes 
-- Design and implement data validation processes 
-- Create and maintain documentation for data collection and cleansing processes 
-- Work with platform and data pipeline teams to ensure data collected is suitable for their needs 
+
+
 - Design, code and debug software programs 
 - Develop and manage software programs 
 - Test and troubleshoot programs 
+- Design and implement programming scripts for web scraping and automation processes
+- Create and maintain documentation for data collection and cleansing processes 
+- Work with platform and data pipeline teams to ensure data collected is suitable for their needs 
